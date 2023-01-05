@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="client-1.9.7-SNAPSHOT-shaded.jar" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/runelite-client/target/client-1.9.7-SNAPSHOT-shaded.jar" />
+    <option name="VM_PARAMETERS" value="-ea" />
+    <option name="PROGRAM_PARAMETERS" value="--developer-mode" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2" />
+  </configuration>
+</component>
